@@ -6,5 +6,5 @@ Find your account SID & Auth Token then paste it into script: https://www.twilio
 Find your Twilio supplied number & paste it into script: https://www.twilio.com/console/phone-numbers/incoming
 Track your usage: https://www.twilio.com/console/usage
 
-# CAVEAT 
+# Caveat 
 When victim replies, default http post message is replied back with instruction on how to block Twilio number. Keeps it harmless...
