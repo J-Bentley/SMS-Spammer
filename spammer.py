@@ -1,7 +1,3 @@
-'''
-SMS-Spammer via Twilio API. Requires free account & installation. By Jordan Bentley.
-https://www.twilio.com/docs/libraries/python
-'''
 from twilio.rest import Client
 
 #Enter account details (see: https://www.twilio.com/console)
