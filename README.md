@@ -1,5 +1,5 @@
 # SMS-Spammer
-Uses Twilio's rest API to send HTTP Post. Requires a free or paid Twilio account and number of full anonymity. Free account appends Twilio ad.
+Uses Twilio's rest API to send HTTP Post. Requires a free or paid Twilio account and number for anonymity. Free account simply appends Twilio ad.
 #  Install
 Get a free account: https://www.twilio.com/  
 Find your account SID & Auth Token then paste it into script: https://www.twilio.com/console  
