@@ -1,9 +1,9 @@
 from twilio.rest import Client
 
-#Enter account details (see: https://www.twilio.com/console)
+#Enter account details (see: https://www.twilio.com/console) include areacode
 account_sid = "AC...a1"
 auth_token = "0a...6d"
-twilioNumber = "+<countryCode><areaCode><senderTwilioNumber>" #ex +17054239654
+twilioNumber = "+12345678910"
 
 client = Client(account_sid, auth_token)
 
